@@ -1,0 +1,1 @@
+importScripts('https://cdn.pushassist.com/account/assets/service-workers/kangiyan-service-worker.js');
